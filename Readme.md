@@ -9,9 +9,6 @@ Libft es un proyecto de la escuela 42 que consiste en crear una librería en C c
 - [Funciones Implementadas](#funciones-implementadas)
 - [Cómo Usar](#cómo-usar)
 - [Compilación](#compilación)
-- [Tests](#tests)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
 
 ## Introducción
 
