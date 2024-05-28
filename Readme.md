@@ -1,5 +1,7 @@
 # Libft
 
+![Libft](Result_libft_125.png)
+
 ## Tu primera librería en C
 
 Libft es un proyecto de la escuela 42 que consiste en crear una librería en C con un conjunto de funciones de propósito general. Estas funciones te serán útiles en tus futuros proyectos en C.
