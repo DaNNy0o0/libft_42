@@ -1,6 +1,6 @@
 # Libft
 
-![Libft](Result_libft_125.png)
+![Libft](Result_Libft_125.png)
 
 ## Tu primera librería en C
 
